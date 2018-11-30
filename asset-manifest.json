@@ -1,14 +1,14 @@
 {
-  "main.css": "/react-pages/static/css/main.a9b35f83.chunk.css",
-  "main.js": "/react-pages/static/js/main.4188cfc6.chunk.js",
-  "main.js.map": "/react-pages/static/js/main.4188cfc6.chunk.js.map",
-  "static/js/1.23b93e16.chunk.js": "/react-pages/static/js/1.23b93e16.chunk.js",
-  "static/js/1.23b93e16.chunk.js.map": "/react-pages/static/js/1.23b93e16.chunk.js.map",
-  "runtime~main.js": "/react-pages/static/js/runtime~main.c9847d06.js",
-  "runtime~main.js.map": "/react-pages/static/js/runtime~main.c9847d06.js.map",
-  "static/media/logo.svg": "/react-pages/static/media/logo.5d5d9eef.svg",
-  "static/css/main.a9b35f83.chunk.css.map": "/react-pages/static/css/main.a9b35f83.chunk.css.map",
-  "index.html": "/react-pages/index.html",
-  "precache-manifest.f2c04b3d97513115f6ae419e1400c306.js": "/react-pages/precache-manifest.f2c04b3d97513115f6ae419e1400c306.js",
-  "service-worker.js": "/react-pages/service-worker.js"
+  "main.css": "/lottery-react-dapp/static/css/main.a9b35f83.chunk.css",
+  "main.js": "/lottery-react-dapp/static/js/main.25e7de9d.chunk.js",
+  "main.js.map": "/lottery-react-dapp/static/js/main.25e7de9d.chunk.js.map",
+  "static/js/1.23b93e16.chunk.js": "/lottery-react-dapp/static/js/1.23b93e16.chunk.js",
+  "static/js/1.23b93e16.chunk.js.map": "/lottery-react-dapp/static/js/1.23b93e16.chunk.js.map",
+  "runtime~main.js": "/lottery-react-dapp/static/js/runtime~main.fdd48eca.js",
+  "runtime~main.js.map": "/lottery-react-dapp/static/js/runtime~main.fdd48eca.js.map",
+  "static/media/logo.svg": "/lottery-react-dapp/static/media/logo.5d5d9eef.svg",
+  "static/css/main.a9b35f83.chunk.css.map": "/lottery-react-dapp/static/css/main.a9b35f83.chunk.css.map",
+  "index.html": "/lottery-react-dapp/index.html",
+  "precache-manifest.f11fe3a3e5ed6285bee7e80c3b3316d0.js": "/lottery-react-dapp/precache-manifest.f11fe3a3e5ed6285bee7e80c3b3316d0.js",
+  "service-worker.js": "/lottery-react-dapp/service-worker.js"
 }
