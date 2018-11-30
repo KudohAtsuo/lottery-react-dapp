@@ -1,4 +1,6 @@
-This project is lottery contract using Ethereum blockchain. This contract has been deployed onto Rinkeby test network so if you want to play, you need metamask and some 'fake'Rinkeby ether in it. 
+This project is lottery contract using Ethereum blockchain. This contract has been deployed onto Rinkeby test network so if you want to play, you need to run metamask on your browser and some 'fake' Rinkeby ether in it. 
+
+lottery-react dApp site ====> https://lottery-react-jmwe583wy.now.sh/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
